@@ -7,10 +7,8 @@ use defmt_rtt as _;
 
 #[cortex_m_rt::entry]
 fn main() -> !  {
-
     defmt::println!("Hello Rust people");
     exit();
-
 }
 
 
