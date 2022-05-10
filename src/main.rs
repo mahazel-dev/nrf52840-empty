@@ -10,8 +10,6 @@ fn main() -> !  {
 
     defmt::println!("Hello Rust people");
     exit();
-    exit();
-    exit();
 
 }
 
